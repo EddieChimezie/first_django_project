@@ -15,5 +15,5 @@
 ## Environment
 
 - [Languages:] (Python3.7, Django framework)
-- [Author](#https://github.com/EddieChimezie)
+- [Author] <a href="https://github.com/EddieChimezie">EddieChimezie</a>
 
